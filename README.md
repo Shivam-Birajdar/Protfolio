@@ -24,8 +24,3 @@ It is designed to showcase skills, projects, and achievements with a sleek inter
 - 🎯 Simple customization with Tailwind utility classes  
 - 👨‍💻 Sections for About, Skills, Projects, and Contact  
 
----
-
-## 🌟 Credits  
-Developed with ❤️ by **Shivam Birajdar**.  
-If you like this project, feel free to ⭐ the repository and use it as inspiration for your own portfolio.  
